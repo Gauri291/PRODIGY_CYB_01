@@ -13,7 +13,8 @@ Encrypts and decrypts messages using Caesar Cipher with user-defined shift.
 3. Get encrypted and decrypted output
 
 ## 📸 Output Screenshot:
-(You can add a screenshot of your output here later)
+![Screenshot 2025-07-01 201541](https://github.com/user-attachments/assets/45438a6e-a427-415e-85b7-7b2666284771)
+
 
 ## 🔗 LinkedIn Post:
-(To be added after Step 4)
+https://www.linkedin.com/posts/gauri-yadav-486561312_internship-caesarcipher-python-activity-7345827993992208387-gseA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE91y2YBgruFVkl4wwfT4FIgHhDXQB9ERyc
